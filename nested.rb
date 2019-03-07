@@ -97,7 +97,6 @@ puts programmer_hash
 
 end
 
-adding_matz
 
 def changing_alan
 	programmer_hash = 
